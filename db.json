@@ -1,0 +1,88 @@
+{
+    "produtos": [
+      {
+        "id": 1,
+        "imagem": "",
+        "nome": "",
+        "valor": "",
+        "lixeira": "https://github.com/natzanchetta/alura-geek/blob/main/img/icon_trash.png"
+      },
+      {
+        "id": 2,
+        "imagem": "",
+        "nome": "",
+        "valor": "",
+        "lixeira": "https://github.com/natzanchetta/alura-geek/blob/main/img/icon_trash.png"
+      },
+      {
+        "id": 3,
+        "imagem": "",
+        "nome": "",
+        "valor": "",
+        "lixeira": "https://github.com/natzanchetta/alura-geek/blob/main/img/icon_trash.png"
+      },
+      {
+        "id": 4,
+        "imagem": "",
+        "nome": "",
+        "valor": "",
+        "lixeira": "https://github.com/natzanchetta/alura-geek/blob/main/img/icon_trash.png"
+      },
+      {
+        "id": 5,
+        "imagem": "",
+        "nome": "",
+        "valor": "",
+        "lixeira": "https://github.com/natzanchetta/alura-geek/blob/main/img/icon_trash.png"
+      },
+      {
+        "id": 6,
+        "imagem": "",
+        "nome": "",
+        "valor": "",
+        "lixeira": "https://github.com/natzanchetta/alura-geek/blob/main/img/icon_trash.png"
+      },
+      {
+        "id": 7,
+        "imagem": "",
+        "nome": "",
+        "valor": "",
+        "lixeira": "https://github.com/natzanchetta/alura-geek/blob/main/img/icon_trash.png"
+      },
+      {
+        "id": 8,
+        "imagem": "",
+        "nome": "",
+        "valor": "",
+        "lixeira": "https://github.com/natzanchetta/alura-geek/blob/main/img/icon_trash.png"
+      },
+      {
+        "id": 9,
+        "imagem": "",
+        "nome": "",
+        "valor": "",
+        "lixeira": "https://github.com/natzanchetta/alura-geek/blob/main/img/icon_trash.png"
+      },
+      {
+        "id": 10,
+        "imagem": "",
+        "nome": "",
+        "valor": "",
+        "lixeira": "https://github.com/natzanchetta/alura-geek/blob/main/img/icon_trash.png"
+      },
+      {
+        "id": 11,
+        "imagem": "",
+        "nome": "",
+        "valor": "",
+        "lixeira": "https://github.com/natzanchetta/alura-geek/blob/main/img/icon_trash.png"
+      },
+      {
+        "id": 12,
+        "imagem": "",
+        "nome": "",
+        "valor": "",
+        "lixeira": "https://github.com/natzanchetta/alura-geek/blob/main/img/icon_trash.png"
+      }
+    ]
+  }

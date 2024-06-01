@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AluraGeek</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <header class="cabecalho">
+        <div class="conteudo_cabecalho">
+            <img src="./img/logo.png" alt="">
+            <h1>AluraGeek</h1>
+        </div>
+    </header>
+    <main class="principal">
+        <section id="produtos" class="secao_produtos">
+            <h1>MEUS PRODUTOS:</h1>
+            <div class="produtos_container">
+                <ul class="produtos" alt="produtos" data-lista>
+        
+                </ul>
+            </div>
+        </section>
+        <section id="formulario" class="secao_formulario">
+            <h1>ADICIONAR PRODUTO:</h1>
+            <div class="formulario_campo">
+                <input name="nome" class="campo_escrita" required placeholder="nome..." id='url' data-nome/>
+            </div>
+
+            <div class="formulario_campo">
+                <input name="valor" class="campo_escrita" required placeholder="valor..." id='valor' data-valor/>
+            </div>
+
+            <div class="formulario_campo">
+                <input name="imagem" class="campo_escrita" required placeholder="imagem..." id='imagem' data-imagem/>
+            </div>
+            <div class="botoes_container">
+                <button id="botao_guardar" type="submit" class="botao guardar">Guardar</button>
+                <button id="botao_limpar" class="botao limpar">Limpar</button>
+            </div>
+        </section>
+    </main>
+    <footer class="rodape">
+        <div class="conteudo_rodape_logo">
+            <img src="./img/logo.png" alt="">
+            <h1>AluraGeek</h1>
+        </div>
+        <div class="conteudo_rodape_creditos">
+            <h3>DESENVOLVIDO POR NATÁLIA VARGAS ZANCHETTA</h3>
+            <a href="https://github.com/natzanchetta" target="_blank" alt="Github natzanchetta">
+                <img src="img/github-mark-white.png" class="icon_git" title="linkGithub">
+            </a>
+        </div>
+        <p class="conteudo_rodape_fim">ALURA LATAM 2024</P>
+    </footer>
+
+    <script src="./script.js"></script>
+</body>
+</html>
