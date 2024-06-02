@@ -2,87 +2,75 @@
     "produtos": [
       {
         "id": 1,
-        "imagem": "",
-        "nome": "",
-        "valor": "",
-        "lixeira": "https://github.com/natzanchetta/alura-geek/blob/main/img/icon_trash.png"
+        "imagem": "./img/stormtrooper.png",
+        "nome": "Stormtrooper",
+        "valor": "$ 60,00"
       },
       {
         "id": 2,
-        "imagem": "",
-        "nome": "",
-        "valor": "",
-        "lixeira": "https://github.com/natzanchetta/alura-geek/blob/main/img/icon_trash.png"
+        "imagem": "./img/gameboy.png",
+        "nome": "Game Boy",
+        "valor": "$ 60,00"
       },
       {
         "id": 3,
-        "imagem": "",
-        "nome": "",
-        "valor": "",
-        "lixeira": "https://github.com/natzanchetta/alura-geek/blob/main/img/icon_trash.png"
+        "imagem": "./img/stormtrooper.png",
+        "nome": "Stormtrooper",
+        "valor": "$ 60,00"
       },
       {
         "id": 4,
-        "imagem": "",
-        "nome": "",
-        "valor": "",
-        "lixeira": "https://github.com/natzanchetta/alura-geek/blob/main/img/icon_trash.png"
+        "imagem": "./img/gameboy.png",
+        "nome": "Game Boy",
+        "valor": "$ 60,00"
       },
       {
         "id": 5,
-        "imagem": "",
-        "nome": "",
-        "valor": "",
-        "lixeira": "https://github.com/natzanchetta/alura-geek/blob/main/img/icon_trash.png"
+        "imagem": "./img/stormtrooper.png",
+        "nome": "Stormtrooper",
+        "valor": "$ 60,00"
       },
       {
         "id": 6,
-        "imagem": "",
-        "nome": "",
-        "valor": "",
-        "lixeira": "https://github.com/natzanchetta/alura-geek/blob/main/img/icon_trash.png"
+        "imagem": "./img/gameboy.png",
+        "nome": "Game Boy",
+        "valor": "$ 60,00"
       },
       {
         "id": 7,
-        "imagem": "",
-        "nome": "",
-        "valor": "",
-        "lixeira": "https://github.com/natzanchetta/alura-geek/blob/main/img/icon_trash.png"
+        "imagem": "./img/stormtrooper.png",
+        "nome": "Stormtrooper",
+        "valor": "$ 60,00"
       },
       {
         "id": 8,
-        "imagem": "",
-        "nome": "",
-        "valor": "",
-        "lixeira": "https://github.com/natzanchetta/alura-geek/blob/main/img/icon_trash.png"
+        "imagem": "./img/gameboy.png",
+        "nome": "Game Boy",
+        "valor": "$ 60,00"
       },
       {
         "id": 9,
-        "imagem": "",
-        "nome": "",
-        "valor": "",
-        "lixeira": "https://github.com/natzanchetta/alura-geek/blob/main/img/icon_trash.png"
+        "imagem": "./img/stormtrooper.png",
+        "nome": "Stormtrooper",
+        "valor": "$ 60,00"
       },
       {
         "id": 10,
-        "imagem": "",
-        "nome": "",
-        "valor": "",
-        "lixeira": "https://github.com/natzanchetta/alura-geek/blob/main/img/icon_trash.png"
+        "imagem": "./img/gameboy.png",
+        "nome": "Game Boy",
+        "valor": "$ 60,00"
       },
       {
         "id": 11,
-        "imagem": "",
-        "nome": "",
-        "valor": "",
-        "lixeira": "https://github.com/natzanchetta/alura-geek/blob/main/img/icon_trash.png"
+        "imagem": "./img/stormtrooper.png",
+        "nome": "Stormtrooper",
+        "valor": "$ 60,00"
       },
       {
         "id": 12,
-        "imagem": "",
-        "nome": "",
-        "valor": "",
-        "lixeira": "https://github.com/natzanchetta/alura-geek/blob/main/img/icon_trash.png"
+        "imagem": "./img/gameboy.png",
+        "nome": "Game Boy",
+        "valor": "$ 60,00"
       }
     ]
   }
