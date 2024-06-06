@@ -79,12 +79,15 @@ h3 {
     padding: 0.6rem;
     border: medium solid var(--cor-quatro);
     border-radius: 0.9rem;
+    box-shadow: -9px 8.5px 4px var(--cor-cinco);
 }
 
 .produto_imagem {
-    width: 100%;
+    width: 97%;
     aspect-ratio: 1/1;
     margin-bottom: 0.7rem;
+    border: medium solid var(--cor-quatro);
+    border-radius: 0.4rem;
 }
 
 .produto_barra {
@@ -106,6 +109,12 @@ h3 {
     align-items: center;
     width: 32.5vw;
     margin: 2.5rem;
+    gap: 2.5rem;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
     gap: 2.5rem;
 }
 
