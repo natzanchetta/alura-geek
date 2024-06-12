@@ -1,76 +1,76 @@
 {
-    "produtos": [
-      {
-        "id": 1,
-        "imagem": "./img/stormtrooper.png",
-        "nome": "Stormtrooper bowl",
-        "valor": "$ 60,00"
-      },
-      {
-        "id": 2,
-        "imagem": "./img/pikachu.jpg",
-        "nome": "Pikachu bowl",
-        "valor": "$ 60,00"
-      },
-      {
-        "id": 3,
-        "imagem": "./img/stormtrooper.png",
-        "nome": "Stormtrooper bowl",
-        "valor": "$ 60,00"
-      },
-      {
-        "id": 4,
-        "imagem": "./img/pikachu.jpg",
-        "nome": "Pikachu bowl",
-        "valor": "$ 60,00"
-      },
-      {
-        "id": 5,
-        "imagem": "./img/stormtrooper.png",
-        "nome": "Stormtrooper bowl",
-        "valor": "$ 60,00"
-      },
-      {
-        "id": 6,
-        "imagem": "./img/pikachu.jpg",
-        "nome": "Pikachu bowl",
-        "valor": "$ 60,00"
-      },
-      {
-        "id": 7,
-        "imagem": "./img/stormtrooper.png",
-        "nome": "Stormtrooper bowl",
-        "valor": "$ 60,00"
-      },
-      {
-        "id": 8,
-        "imagem": "./img/pikachu.jpg",
-        "nome": "Pikachu bowl",
-        "valor": "$ 60,00"
-      },
-      {
-        "id": 9,
-        "imagem": "./img/stormtrooper.png",
-        "nome": "Stormtrooper bowl",
-        "valor": "$ 60,00"
-      },
-      {
-        "id": 10,
-        "imagem": "./img/pikachu.jpg",
-        "nome": "Pikachu bowl",
-        "valor": "$ 60,00"
-      },
-      {
-        "id": 11,
-        "imagem": "./img/stormtrooper.png",
-        "nome": "Stormtrooper bowl",
-        "valor": "$ 60,00"
-      },
-      {
-        "id": 12,
-        "imagem": "./img/pikachu.jpg",
-        "nome": "Pikachu bowl",
-        "valor": "$ 60,00"
-      }
-    ]
-  }
+  "produtos": [
+    {
+      "id": 1,
+      "imagem": "./img/stormtrooper.png",
+      "nome": "Stormtrooper bowl",
+      "valor": "$ 60,00"
+    },
+    {
+      "id": 2,
+      "imagem": "./img/pikachu.jpg",
+      "nome": "Pikachu mug",
+      "valor": "$ 60,00"
+    },
+    {
+      "id": 3,
+      "imagem": "./img/stormtrooper.png",
+      "nome": "Stormtrooper bowl",
+      "valor": "$ 60,00"
+    },
+    {
+      "id": 4,
+      "imagem": "./img/pikachu.jpg",
+      "nome": "Pikachu mug",
+      "valor": "$ 60,00"
+    },
+    {
+      "id": 5,
+      "imagem": "./img/stormtrooper.png",
+      "nome": "Stormtrooper bowl",
+      "valor": "$ 60,00"
+    },
+    {
+      "id": 6,
+      "imagem": "./img/pikachu.jpg",
+      "nome": "Pikachu mug",
+      "valor": "$ 60,00"
+    },
+    {
+      "id": 7,
+      "imagem": "./img/stormtrooper.png",
+      "nome": "Stormtrooper bowl",
+      "valor": "$ 60,00"
+    },
+    {
+      "id": 8,
+      "imagem": "./img/pikachu.jpg",
+      "nome": "Pikachu mug",
+      "valor": "$ 60,00"
+    },
+    {
+      "id": 9,
+      "imagem": "./img/stormtrooper.png",
+      "nome": "Stormtrooper bowl",
+      "valor": "$ 60,00"
+    },
+    {
+      "id": 10,
+      "imagem": "./img/pikachu.jpg",
+      "nome": "Pikachu mug",
+      "valor": "$ 60,00"
+    },
+    {
+      "id": 11,
+      "imagem": "./img/stormtrooper.png",
+      "nome": "Stormtrooper bowl",
+      "valor": "$ 60,00"
+    },
+    {
+      "id": 12,
+      "imagem": "./img/pikachu.jpg",
+      "nome": "Pikachu mug",
+      "valor": "$ 60,00"
+    }
+  ]
+}

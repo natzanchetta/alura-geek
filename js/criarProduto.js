@@ -9,8 +9,9 @@ async function criarProduto(evento) {
     const imagem = document.querySelector("[data-imagem]").value;
     const nome = document.querySelector("[data-nome]").value;
     const valor = document.querySelector("[data-valor]").value;
+    const id = document.querySelector("[data-id]").value;
     try {
-        await conectaApi.criaProdutos(imagem, nome, valor);
+        await conectaApi.criaProdutos(imagem, nome, valor, id);
         
         //window.location.href = "../pages/envio-concluido.html"
         alert("Produto enviado com sucesso!");

@@ -47,11 +47,11 @@ h3 {
 .secao_produtos {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: center !important;
     width: 52.6vw;
     margin: 2.5rem;
     height: 70rem;
-    gap: 2.5rem;
+    gap: 2rem;
 }
 
 .produtos_container {
@@ -59,6 +59,12 @@ h3 {
     height: 100%;
     box-shadow: -9px 8.5px 4px var(--cor-cinco);
     overflow-y: auto;
+    scrollbar-width: thin;
+}
+
+.mensagem__titulo {
+    color: #000000;
+    font-family: var(--fonte-dois);
 }
 
 .produtos {
@@ -73,19 +79,21 @@ h3 {
 .produto_item {
     list-style-type: none;
     width: 13.6vw;
-    height: fit-content;
+    aspect-ratio: 1/1.4;
     margin-bottom: 4.8rem;
     background-color: var(--cor-um);
     padding: 0.6rem;
     border: medium solid var(--cor-quatro);
     border-radius: 0.9rem;
     box-shadow: -9px 8.5px 4px var(--cor-cinco);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .produto_imagem {
     width: 97%;
     aspect-ratio: 1/1;
-    margin-bottom: 0.7rem;
     border: medium solid var(--cor-quatro);
     border-radius: 0.4rem;
 }
@@ -96,20 +104,26 @@ h3 {
     justify-content: space-between;
     height: 1.5rem;
     align-items: center;
-    margin-top: 0.7rem;
 }
 
-.produto_barra_icone:hover {
+.botao_apagar {
+    padding: 0;
+    border: 0;
+    background-color: var(--cor-um);
+}
+
+.botao_apagar:hover {
     cursor: pointer;
 }
 
 .secao_formulario {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: center !important;
     width: 32.5vw;
     margin: 2.5rem;
-    gap: 2.5rem;
+    gap: 2rem;
+    text-align: center;
 }
 
 .formulario {
@@ -141,8 +155,8 @@ h3 {
 .botao {
     border-radius: 0.9rem;
     border: medium solid var(--cor-dois);
-    height: 2.7rem;
-    width: 12vw;
+    height: 3rem;
+    width: 13vw;
     font-weight: 500;
     font-family: var(--fonte-dois);
     font-size: 1.25rem;
@@ -171,6 +185,7 @@ h3 {
     justify-content: center;
     align-items: center;
     box-shadow: 0 -10px 4px var(--cor-cinco);
+    text-align: center;
 }
 
 .conteudo_rodape_logo {
@@ -194,4 +209,58 @@ h3 {
     padding-bottom: 4rem;
     font-weight: 200;
     margin: 0;
+}
+
+@media(max-width: 768px) {
+    .principal {
+        flex-direction: column-reverse;
+        margin: 0 0 6.8rem 0;
+    }
+
+    .secao_produtos {
+        width: auto;
+        height: 40rem;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .produtos_container {
+        box-shadow: none;
+        overflow-y: hidden;
+    }
+
+    .produtos {
+        display: flex;
+        overflow-x: auto;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        gap: 1.1rem;
+    }
+
+    .produto_item {
+        flex: 0 0 auto;
+        width: 40vw;
+        box-shadow: -6px 6.5px 4px var(--cor-cinco);
+        margin-bottom: 2.4rem;
+        width: calc(50vw - 3.2rem);
+    }
+
+    .secao_formulario {
+        width: auto;
+    }
+
+    .campo_escrita {
+        width: 78vw;
+    }
+
+    .botoes_container {
+        width: 82vw;
+        justify-content: space-between;
+    }
+
+    .botao {
+        height: 3.2rem;
+        width: 39.4vw;
+        font-weight: 400;
+    }
 }
